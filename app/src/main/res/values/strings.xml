@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenPrimerParcial</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="precio">Precio</string>
+    <string name="foto">Foto</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="listar">Lista</string>
+</resources>
